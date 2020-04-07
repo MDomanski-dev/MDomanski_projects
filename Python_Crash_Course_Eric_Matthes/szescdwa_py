@@ -1,0 +1,4 @@
+favourite_numbers = {}
+
+favourite_numbers['Adam'] = 5
+

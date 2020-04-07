@@ -1,0 +1,5 @@
+
+
+lista_gosci = ['Hendrix', 'Cobain', 'Hauer', 'Tesla']
+
+print("\nZapraszam Cię na obiad, drogi ' + lista_gosci(1) ' "."")
